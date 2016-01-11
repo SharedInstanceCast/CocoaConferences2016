@@ -2,16 +2,17 @@
 A list of iOS and Mac conferences for 2016
 
 [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home)
-March 25–26 in Chicago, IL
 
-CocoaConf Austin
-April 15–16 in Austin, TX
+March 25–26
 
-CocoaConf Seattle
-May 6–7 in Seattle, WA
+[CocoaConf Austin](http://cocoaconf.com/austin-2016/home)
+April 15–16
 
-CocoaConf Washington
-September 9–10 in Washington, DC
+[CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home)
+May 6–7 
 
-CocoaConf San Jose
-November 4–5 in San Jose, CA
+[CocoaConf Washington](http://cocoaconf.com/dc-2016/home)
+September 9–10
+
+[CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home)
+November 4–5 
