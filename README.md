@@ -18,7 +18,7 @@ April 28–30
 [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home)
 May 6–7 
 
-# [UIKonf](http://www.uikonf.com) 
+[UIKonf](http://www.uikonf.com) 
 Heimathafen, Berlin
 May 22–25
 
