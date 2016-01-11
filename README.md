@@ -11,6 +11,12 @@ April 15–16
 [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home)
 May 6–7 
 
+
+UIKonf: May 22–25, 2016
+
+360|iDev: August 21–24, 2016 
+
+
 [CocoaConf Washington](http://cocoaconf.com/dc-2016/home)
 September 9–10
 
