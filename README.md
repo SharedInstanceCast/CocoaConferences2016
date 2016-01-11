@@ -1,7 +1,7 @@
 # CocoaConferences2016
 A list of iOS and Mac conferences for 2016
 
-[http://cocoaconf.com/chicago-2016/home|CocoaConf Chicago]
+[CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home)
 March 25–26 in Chicago, IL
 
 CocoaConf Austin
