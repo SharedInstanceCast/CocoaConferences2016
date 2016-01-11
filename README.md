@@ -1,4 +1,4 @@
-# CocoaConferences2016
+# Cocoa Conferences 2016
 A list of iOS and Mac conferences for 2016
 
 ### [RWDevCon](http://rwdevcon.com)
